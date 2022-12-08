@@ -72,7 +72,7 @@ main {
   margin: 1.2rem;
   border-radius: 10px;
   opacity: 0;
-  transition: opacity 5000ms ease-in-out;
+  transition: opacity 500ms ease-in-out;
 }
 .card-img .overlay:hover {
   opacity: 0.65;
